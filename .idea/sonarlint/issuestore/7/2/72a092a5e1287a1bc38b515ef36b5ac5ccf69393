@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÏëÚùÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+y
+java:S1128
+"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ðŽþ–þÿÿÿÿ
+‡
+java:S1128"lRemove this unused import 'org.springframework.security.authentication.UsernamePasswordAuthenticationToken'.(ÖÆ„Ùüÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñýÓ“
+r
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë
+t
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ
+E
+java:S1068"*Remove this unused "logger" private field.(—­Š›ùÿÿÿÿ

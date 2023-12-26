@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÂÌäşÿÿÿÿ
+]	java:S1255"<This block of commented-out lines of code should be removed.(µİÿÙúÿÿÿÿ8É‰Ù¾Ê1
+G	java:S106:"+Replace this use of System.out by a logger.(¸‚¯8±¯èÀÊ1
+a
+java:S1128"?Remove this unused import 'com.WeWork.UserService.models.User'.(’ªÖ½ÿÿÿÿÿ8 Á€ÀÊ1
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8 Á€ÀÊ1
+I
+java:S1068"'Remove this unused "key" private field.(ò”¶´üÿÿÿÿ8á¤€ÀÊ1
