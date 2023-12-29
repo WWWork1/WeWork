@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  overflow: hidden;
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +37,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+/* App.css */
+.app-container {
+  display: flex;
+  height: 100%;
+ 
+}
+
+.fixed-column {
+  flex: 0 0 15%; /* 25% of the container width, fixed */
+  background-color: #402c2c; /* Example background color */
+  padding: 20px;
+}
+
+.dynamic-column {
+  flex: 1; /* Takes up remaining space, dynamic */
+  background-color: #f0f0f0; /* Example background color */
+  padding: 20px;
+  overflow-x: hidden;
 }
